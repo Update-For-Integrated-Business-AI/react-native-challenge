@@ -37,4 +37,3 @@ Feel free to add creative elements or features, like interactive charts for spen
 1. Complete your work in a new Git repository.
 2. Ensure your repository is public or shared with [specific email or GitHub account].
 3. Email the link to your repository to [submission email address] with the subject line "Disco App Development Challenge - [Your Name]".
-# react-native-challenge
