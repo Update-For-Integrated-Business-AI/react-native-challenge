@@ -12,7 +12,7 @@ Your task is to develop the "Insights and Budget Screen," which provides users w
 
 ## Provided Materials:
 
-- Wireframes for the Insights and Budget Screen (attached with this challenge).
+- [Wireframes](./Wireframe%20v3.0%20-%20Budget.jpg) for the Insights and Budget Screen (attached with this challenge).
 - Design guidelines including color schemes and fonts.
 
 ## Tasks:
